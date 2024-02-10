@@ -1,0 +1,13 @@
+.env.dev
+.env.prod
+.env.prod.db
+
+
+*.swp
+*.swo
+*.swn
+*.swm
+
+
+services/web/env
+services/web/project/__pycache__
